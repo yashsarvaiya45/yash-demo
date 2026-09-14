@@ -1,5 +1,5 @@
 # yash-demo
 
-# Devloper 
+# Student 
  hello im a Yash Sarvaiya. 
 
