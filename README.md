@@ -1,5 +1,5 @@
 # yash-demo
 
-# Student
- hello im a Yash Sarvaiya. 
+# Stududent
+Hello my name is yash sarvaiya  and i am studying computer science enginnering
 
